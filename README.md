@@ -1,0 +1,1 @@
+This repository contains a simple yet engaging Tic-Tac-Toe game built using the React library. Whether you're a seasoned developer or just starting with React, this project serves as an excellent learning resource to understand the fundamentals of React components, state management, and the overall development workflow.
